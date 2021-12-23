@@ -1,0 +1,9 @@
+.abc{
+    border: 2px solid black;
+    display: grid;
+    place-content: center;
+    margin-left: 400px;
+    margin-right: 400px;
+
+}
+
